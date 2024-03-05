@@ -1,1 +1,0 @@
-path = 'C:\Code\horsedb.db'
